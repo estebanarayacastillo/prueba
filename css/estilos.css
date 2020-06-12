@@ -18,3 +18,14 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera
+{
+    background: blue;
+    color: white;
+    box-shadow: red;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 20px;
+    font-style: italic;
+}

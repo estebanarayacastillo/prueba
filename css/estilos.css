@@ -21,8 +21,8 @@ body
 
 #cabecera
 {
-    background: blue;
-    color: white;
+    background: white;
+    color: blue;
     box-shadow: red;
     text-align: center;
     font-family: "Arial";
